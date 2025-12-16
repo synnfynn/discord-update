@@ -10,7 +10,7 @@ Add ${HOME}/bin to ${PATH}.
 
 ## Usage
 ```
-$ get_discord_update_tarball.sh
+$ ./get_discord_update_tarball.sh
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 103.6M 100 103.6M   0     0 50506k     0   0:00:02  0:00:02 --:--:-- 50580k
